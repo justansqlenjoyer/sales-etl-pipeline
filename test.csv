@@ -1,0 +1,13 @@
+order_id,customer_id,full_name,product,amount,quantity,order_date
+1001, C001 , ivan ivanov , Laptop ,1000.0,1,2026-01-15
+1002,c002,Anna Smirnova,Mouse,25.5,2,2026-01-20
+1002,c002,Anna Smirnova,Mouse,30.0,2,2026-01-20
+1003,C003,,Keyboard,invalid_price,1,2026-02-05
+1004,c001,IVAN IVANOV,Monitor,300.0,,2026-02-10
+1005,C004,Petr Petrov,,150.0,3,2026-02-18
+1006,c005,Elena Sokolova,Headphones,80.0,1,invalid_date
+1007,,Sergey Volkov,Webcam,50.0,1,2026-03-01
+1008,C002,anna smirnova,USB Hub,15.0,4,2026-03-05
+1009,C006,Dmitry Orlov,Laptop,1200.0,1,2026-03-12
+1010,c003,No Name,Desk Mat,20.0,2,2026-03-15
+1011,c007,Olga Morozova,Chair,250.0,1,2026-03-20
